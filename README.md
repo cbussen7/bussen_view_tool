@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BussenViewTool::Renderer.copyright "Christopher Bussen", "All rights reserved"
+```
 
 ## Development
 
